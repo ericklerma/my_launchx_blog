@@ -9,13 +9,10 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy Erick Lerma.
+> Tengo 24 años y vivo en la CDMX.
+> Mis lenguajes de programación favoritos son Javascript, Elixir y Erlang.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Un poco más sobre mí** Me gustan los videojuegos, escuchar música y dar un paseo por la ciudad, 
+me considero una persona con un gran sentido del humor, estudio en la Universidad Virtual del Estado de Guanajuato (UVEG).
+Mi meta a corto plazo es convertirme en uno de los mejores Full Stack Web Developer de mi pais.
