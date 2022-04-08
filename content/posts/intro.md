@@ -9,8 +9,8 @@ Hola a todos
 Para mi la cultura de un desarrollador de software se basa en lo siguiente:
 
 - Respeto.
-- Honestidad
-- Confianza
+- Honestidad.
+- Confianza.
 - Dedicación.
 
 Estos valores son muy importantes y fundamentales para mí.
