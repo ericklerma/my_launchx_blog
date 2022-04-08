@@ -1,6 +1,6 @@
 ---
 title: "Mi ruta de aprendizaje en Launch X"
-date: 2022-08-4
+date: 2022-04-08
 description: 'Aquí encontrarás todo lo que aprendí en Launch X'
 ---
 
